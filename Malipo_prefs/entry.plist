@@ -1,0 +1,10 @@
+{
+    entry = {
+	bundle = Malipo;
+	cell = PSLinkCell;
+	detail = MalipoListController;
+	icon = Malipo.png;
+	isController = 1;
+	label = Malipo;
+    };
+}
